@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "563150327139",
+    "firebase_url": "https://salatigagraff-ae2e2.firebaseio.com",
+    "project_id": "salatigagraff-ae2e2",
+    "storage_bucket": "salatigagraff-ae2e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563150327139:android:7fecf5854709a18b",
+        "android_client_info": {
+          "package_name": "com.example.sipo.sala3graff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563150327139-pah3va3kenrlekpcp94gp76r820ludgc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sipo.sala3graff",
+            "certificate_hash": "40C7D99EB3C52FEC2048056D953786DD5812B7EF"
+          }
+        },
+        {
+          "client_id": "563150327139-28a9sldp4pjqn6rib71bq8pgdur3cqce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_2mdfLtnYQR-sQVK_17pIXjJ0heUIV0I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563150327139-28a9sldp4pjqn6rib71bq8pgdur3cqce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

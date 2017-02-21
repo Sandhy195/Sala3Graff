@@ -1,0 +1,36 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sipo.sala3graff.Gallery.GalleryFrag">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <GridView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:horizontalSpacing="5dp"
+            android:verticalSpacing="5dp"
+            android:layout_centerHorizontal="true"
+            android:numColumns="3"
+            android:id="@+id/gridViewgallery" />
+    </LinearLayout>
+
+    <com.melnykov.fab.FloatingActionButton
+        android:id="@+id/fabgallery"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:layout_margin="16dp"
+        android:src="@drawable/ic_add_white_24dp"
+        fab:fab_colorNormal="@color/pinkMuda"
+        fab:fab_colorPressed="@color/pinkMuda"
+        fab:fab_colorRipple="@color/accentColor" />
+
+</FrameLayout>

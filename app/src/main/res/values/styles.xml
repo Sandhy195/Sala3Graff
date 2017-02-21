@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimaryDark">@color/pinkTua</item>
+        <item name="colorPrimary">@color/pinkMuda</item>
+        <item name="android:colorAccent">@color/accentColor</item>
+        <item name="android:textColor">@color/teksUtama</item>
+    </style>
+
+    <color name="pinkTua">#C51162</color>
+    <color name="pinkMuda">#F50057</color>
+    <color name="teksUtama">#000000</color>
+    <color name="layar">#ffffff</color>
+    <color name="backg">#EEEEEE</color>
+    <color name="accentColor">#880e4f</color>
+</resources>
